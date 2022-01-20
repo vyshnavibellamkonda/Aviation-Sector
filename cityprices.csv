@@ -1,0 +1,42 @@
+City,Part,Price,Quality
+Adilabad,Main assembly,56448,83
+Hyderabad,Main assembly,54718,72
+Warangal,Main assembly,49844,83
+Alampur,Fuselage assembly,32963,75
+Armoor,Fuselage assembly,33620,91
+Balkonda,Fuselage assembly,33582,65
+Bhadrachalam,Wing assembly,4911,83
+Bhainsa,Wing assembly,5108,76
+Bodhan,Wing assembly,4985,95
+Devarakonda,Engine,797048,72
+Gadwal,Engine,787947,72
+Golconda,Engine,775512,61
+Hanamkonda,Fuselage Nose,443495,85
+Jagityal,Fuselage Nose,441179,76
+Kamareddy,Fuselage Nose,449768,60
+Kandi,Fuselage Mid,757274,95
+Karimnagar,Fuselage Mid,750490,65
+Khammam,Fuselage rare,391357,67
+Kodangal,Fuselage rare,422321,81
+Kohir,Frame,124731,67
+Koilkonda,Frame,160456,74
+Koratla,Tail Assembly,5108,92
+Kosgi,Tail Assembly,4985,67
+Kothagudem,Tail main,106856,67
+Mahabubnagar,Tail main,101728,98
+Medak,Tail CS,75290,66
+Nagar Kurnool,Tail CS,84377,62
+Nalgonda,actuators,93597,78
+Nallamala Range,actuators,78086,96
+Narayanpet,Wing main,214215,94
+Nirmal,Wing main,207601,90
+Nizamabad,Wing CS,84377,72
+Patancheru,Wing CS,79794,67
+Rekhapalle,Fuselage raw,283618,65
+Sadasivpet,Fuselage raw,258184,67
+Secunderabad,Tail raw,139652,63
+Siddipet,Tail raw,125394,87
+Tandur,Front Raw,75892,66
+Vemalawada,Front Raw,79086,93
+Venkatapuram,Engine Raw,301093,87
+Yellandu,Engine Raw,322743,91
